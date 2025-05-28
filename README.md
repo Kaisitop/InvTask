@@ -28,3 +28,9 @@ Registra tareas con su profesor y nota, edítalas o elimínalas, ¡todo guardado
 
 ---
 
+![image](https://github.com/user-attachments/assets/321fed89-de0a-45d6-b981-ccce858d34ee)
+![image](https://github.com/user-attachments/assets/3b843535-244a-4c5a-afbe-511e9f6a5cc3)
+![image](https://github.com/user-attachments/assets/596bdcef-9eab-4b42-8e30-1226e02b2f14)
+
+
+
