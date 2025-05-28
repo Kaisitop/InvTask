@@ -1,21 +1,17 @@
-📝 Gestor de Tareas Web
-Esta es una aplicación web sencilla que permite:
+✨ Gestor de Tareas Web 📚
+Una aplicación web rápida, sencilla y funcional para gestionar tus tareas académicas.
+Registra tareas con su profesor y nota, edítalas o elimínalas, ¡todo guardado localmente en tu navegador!
 
-Agregar tareas con su respectivo profesor y nota
+🚀 ¿Qué puedes hacer?
+✅ Agregar tareas nuevas
+✏️ Editar tareas existentes
+🗑️ Eliminar tareas
+💾 Guardado automático en localStorage
+🔔 Mensajes interactivos de confirmación
 
-Editar tareas existentes
-
-Eliminar tareas
-
-Guardar todos los datos localmente usando localStorage
-
-Mostrar notificaciones temporales de éxito o eliminación
-
-Tecnologías utilizadas:
-HTML – para la estructura
-
-JavaScript (Vanilla) – para la lógica del CRUD
-
-Tailwind CSS – para los estilos
-
-LocalStorage – para almacenar las tareas de forma persistente en el navegador
+🛠️ Tecnologías utilizadas
+Tecnología	Descripción
+🧱 HTML5	Estructura semántica de la aplicación
+🎨 Tailwind CSS	Estilos modernos, responsive y minimalistas
+⚙️ JavaScript	Lógica del CRUD y manipulación DOM
+💾 localStorage	Almacenamiento persistente en el navegador
